@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdesign_quarky_skin=self.webpackChunkdesign_quarky_skin||[]).push([[226],{3769:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
