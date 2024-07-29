@@ -4,8 +4,6 @@
 <b>The Quarky Game API is still in development.</b> It is mostly finished, but there are a couple features that are missing.
 </warning>
 
-## What's this? (OwO)
-
 On Quarky, you can play games against your friends. You can start a game and submit your score to a channel, at which point other members can attempt to beat it.
 
 The Game API is designed for score-based singleplayer games and is intentionally simplistic so that you can focus on developing the game itself. It provides information about the player and opponent, and allows you to submit the score once the game is finished.
